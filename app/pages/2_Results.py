@@ -21,11 +21,18 @@ engine = get_engine()
 patient = get_patient()
 esc = theme.esc
 
+if st.session_state.pop("_go_home", False):  # set by the New Check button; must run before the empty-input check below
+    st.switch_page("Home.py")
+
 
 def new_check() -> None:
-    """Clear the current patient and go back to the form."""
+    """Clear the current patient (button callback).
+
+    Why this does NOT switch page: st.switch_page() inside a callback is a silent no-op in Streamlit
+    ("Calling st.rerun() within a callback is a no-op"), so the page change happens in the main script below.
+    """
     st.session_state["patient"] = {"symptoms": [], "free_text": "", "age": None, "sex": "Prefer not to say"}
-    st.switch_page("Home.py")
+    st.session_state["_go_home"] = True
 
 
 def sentences(text: str) -> list[str]:
