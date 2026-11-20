@@ -7,7 +7,11 @@ datasets. No pretrained medical API and no language model is used to make a pred
 > **Academic project. Not a medical device and not a diagnosis.** RogMitra.AI demonstrates explainable AI on
 > public data. For any health concern please consult a qualified doctor; in an emergency call your local
 > emergency number.
+>
+
 **Live demo:** https://rogmitra-ai-hun.streamlit.app/
+
+
 ![Check Symptoms page](docs/screenshots/check_symptoms.png)
 *(screenshot placeholder: see [Screenshots](#screenshots) for how to capture it)*
 
