@@ -1,4 +1,4 @@
-"""Page 4: About and Limitations."""
+"""Page 4: About."""
 from __future__ import annotations
 
 import sys
@@ -13,7 +13,7 @@ from common import setup_page  # noqa: E402
 from src import config  # noqa: E402
 from src.utils import load_json  # noqa: E402
 
-setup_page("About and Limitations", "about")
+setup_page("About", "about")
 
 theme.html_block(theme.page_head(
     "About RogMitra.AI",

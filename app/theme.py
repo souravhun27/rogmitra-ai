@@ -75,7 +75,7 @@ NAV = [
     ("check", "Home.py", "Check Symptoms", ":material/monitor_heart:"),
     ("results", "pages/2_Results.py", "Results", ":material/fact_check:"),
     ("performance", "pages/3_Model_Performance.py", "Model Performance", ":material/bar_chart:"),
-    ("about", "pages/4_About_and_Limitations.py", "About & Limitations", ":material/info:"),
+    ("about", "pages/4_About.py", "About", ":material/info:"),
 ]
 
 # --------------------------------------------------------------------------- #
