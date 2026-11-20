@@ -252,3 +252,6 @@ with side:
         parts.append('<div class="edx-sec"><h4>' + theme.icon("leaf", 17) + 'Home care</h4>'
                      '<p>No home-care entry for this condition. Please consult a healthcare professional.</p></div>')
     theme.html_block(theme.card("".join(parts)))
+
+# One quiet line under the results (the prominent banner was removed from the top of the pages; the full text is on About).
+st.caption("Academic project, not a medical device and not a diagnosis. Please consult a qualified doctor for any health concern.")

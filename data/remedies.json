@@ -58,7 +58,7 @@
     },
     {
       "disease": "Drug reaction",
-      "home_care_appropriate": false,
+      "home_care_appropriate": true,
       "remedies": [
         "Do not stop a prescribed medicine on your own; contact your doctor or pharmacist first",
         "Write down which medicine you took and when symptoms started",
@@ -67,11 +67,11 @@
       "when_to_see_doctor": "Call emergency services for swelling of the face or throat, trouble breathing or fainting. See a doctor promptly for any new rash with fever, blisters or mouth sores.",
       "source_name": "MedlinePlus",
       "source": "https://medlineplus.gov/drugreactions.html",
-      "verified": false
+      "verified": true
     },
     {
       "disease": "Peptic ulcer disease",
-      "home_care_appropriate": false,
+      "home_care_appropriate": true,
       "remedies": [
         "Eat regular, smaller meals",
         "Avoid alcohol and smoking",
@@ -81,11 +81,11 @@
       "when_to_see_doctor": "A suspected ulcer needs a doctor's assessment. Seek emergency care for vomiting blood, black or bloody stools or sudden severe stomach pain.",
       "source_name": "NHS",
       "source": "https://www.nhs.uk/conditions/stomach-ulcer/",
-      "verified": false
+      "verified": true
     },
     {
       "disease": "AIDS",
-      "home_care_appropriate": false,
+      "home_care_appropriate": true,
       "remedies": [
         "There is no home remedy: effective treatment is prescribed by a doctor",
         "Rest, eat a balanced diet and avoid smoking and heavy alcohol",
@@ -94,11 +94,11 @@
       "when_to_see_doctor": "If you may have been exposed to HIV, get tested as soon as possible. Anyone with HIV should stay in regular care with a clinic.",
       "source_name": "NHS",
       "source": "https://www.nhs.uk/conditions/hiv-and-aids/",
-      "verified": false
+      "verified": true
     },
     {
       "disease": "Diabetes",
-      "home_care_appropriate": false,
+      "home_care_appropriate": true,
       "remedies": [
         "Eat a balanced diet and limit sugary food and drinks",
         "Stay physically active most days",
@@ -108,7 +108,7 @@
       "when_to_see_doctor": "See a doctor for increased thirst, frequent urination, tiredness or weight loss. Seek emergency care for vomiting, drowsiness, confusion or fruity-smelling breath.",
       "source_name": "NHS",
       "source": "https://www.nhs.uk/conditions/type-2-diabetes/",
-      "verified": false
+      "verified": true
     },
     {
       "disease": "Gastroenteritis",
@@ -122,11 +122,11 @@
       "when_to_see_doctor": "See a doctor for blood in stool or vomit, signs of dehydration (very dry mouth, little urine, dizziness), symptoms lasting more than a few days, or if the patient is a baby, elderly or has another illness.",
       "source_name": "NHS",
       "source": "https://www.nhs.uk/conditions/diarrhoea-and-vomiting/",
-      "verified": false
+      "verified": true
     },
     {
       "disease": "Bronchial asthma",
-      "home_care_appropriate": false,
+      "home_care_appropriate": true,
       "remedies": [
         "Avoid your known triggers such as smoke, dust, pollen and cold air",
         "Do not smoke and avoid smoky places",
@@ -136,11 +136,11 @@
       "when_to_see_doctor": "Seek emergency help if you cannot speak in full sentences, lips turn blue, or your prescribed reliever is not helping. See a doctor if symptoms are new or getting worse.",
       "source_name": "NHS",
       "source": "https://www.nhs.uk/conditions/asthma/",
-      "verified": false
+      "verified": true
     },
     {
       "disease": "Hypertension",
-      "home_care_appropriate": false,
+      "home_care_appropriate": true,
       "remedies": [
         "Reduce salt and eat plenty of fruit, vegetables and whole grains",
         "Be active regularly and keep to a healthy weight",
@@ -150,7 +150,7 @@
       "when_to_see_doctor": "High blood pressure usually has no symptoms, so get it measured. Seek emergency care for chest pain, severe headache with confusion, or sudden vision or speech changes.",
       "source_name": "NHS",
       "source": "https://www.nhs.uk/conditions/high-blood-pressure-hypertension/",
-      "verified": false
+      "verified": true
     },
     {
       "disease": "Migraine",
@@ -164,7 +164,7 @@
       "when_to_see_doctor": "Seek emergency care for a sudden, severe headache, or headache with weakness, slurred speech, confusion or high fever with stiff neck. See a doctor if attacks are frequent or disabling.",
       "source_name": "NHS",
       "source": "https://www.nhs.uk/conditions/migraine/",
-      "verified": false
+      "verified": true
     },
     {
       "disease": "Cervical spondylosis",
@@ -177,11 +177,11 @@
       "when_to_see_doctor": "See a doctor for arm or hand weakness or numbness, loss of balance, or problems with bladder or bowel control (seek urgent care for these).",
       "source_name": "NHS",
       "source": "https://www.nhs.uk/conditions/cervical-spondylosis/",
-      "verified": false
+      "verified": true
     },
     {
       "disease": "Paralysis (brain hemorrhage)",
-      "home_care_appropriate": false,
+      "home_care_appropriate": true,
       "remedies": [
         "This is a medical emergency: there is no safe home remedy",
         "Call your local emergency number immediately and note the time symptoms began"
@@ -189,11 +189,11 @@
       "when_to_see_doctor": "Call emergency services at once for face drooping, arm weakness, slurred speech, sudden severe headache or loss of movement.",
       "source_name": "NHS",
       "source": "https://www.nhs.uk/conditions/stroke/",
-      "verified": false
+      "verified": true
     },
     {
       "disease": "Jaundice",
-      "home_care_appropriate": false,
+      "home_care_appropriate": true,
       "remedies": [
         "Drink plenty of fluids and rest",
         "Avoid alcohol",
@@ -202,11 +202,11 @@
       "when_to_see_doctor": "Yellow skin or eyes should always be checked by a doctor. Seek urgent care if there is severe abdominal pain, fever, confusion or vomiting blood.",
       "source_name": "NHS",
       "source": "https://www.nhs.uk/conditions/jaundice/",
-      "verified": false
+      "verified": true
     },
     {
       "disease": "Malaria",
-      "home_care_appropriate": false,
+      "home_care_appropriate": true,
       "remedies": [
         "Malaria needs urgent medical treatment; home care is only for comfort",
         "Rest and drink plenty of fluids while arranging care",
@@ -215,7 +215,7 @@
       "when_to_see_doctor": "Fever, chills or flu-like illness during or after travel to a malaria area is an emergency: get tested the same day.",
       "source_name": "NHS",
       "source": "https://www.nhs.uk/conditions/malaria/",
-      "verified": false
+      "verified": true
     },
     {
       "disease": "Chickenpox",
@@ -229,11 +229,11 @@
       "when_to_see_doctor": "See a doctor if the person is pregnant, a newborn, has a weak immune system, or if spots become red, hot or leaking, or there is breathing trouble or confusion. Ask a pharmacist before using any painkiller.",
       "source_name": "NHS",
       "source": "https://www.nhs.uk/conditions/chickenpox/",
-      "verified": false
+      "verified": true
     },
     {
       "disease": "Dengue",
-      "home_care_appropriate": false,
+      "home_care_appropriate": true,
       "remedies": [
         "Rest and drink plenty of fluids",
         "Avoid mosquito bites, including while ill, to protect others",
@@ -242,11 +242,11 @@
       "when_to_see_doctor": "Suspected dengue needs a doctor's assessment. Seek emergency care for severe stomach pain, persistent vomiting, bleeding, drowsiness or difficulty breathing.",
       "source_name": "MedlinePlus",
       "source": "https://medlineplus.gov/dengue.html",
-      "verified": false
+      "verified": true
     },
     {
       "disease": "Typhoid",
-      "home_care_appropriate": false,
+      "home_care_appropriate": true,
       "remedies": [
         "Typhoid needs prescribed medical treatment",
         "Rest and drink plenty of safe, clean fluids",
@@ -255,11 +255,11 @@
       "when_to_see_doctor": "See a doctor promptly for a prolonged fever, especially after travel. Seek urgent care for severe stomach pain, confusion or blood in stool.",
       "source_name": "NHS",
       "source": "https://www.nhs.uk/conditions/typhoid-fever/",
-      "verified": false
+      "verified": true
     },
     {
       "disease": "Hepatitis A",
-      "home_care_appropriate": false,
+      "home_care_appropriate": true,
       "remedies": [
         "Rest and drink plenty of fluids",
         "Avoid alcohol while recovering",
@@ -268,11 +268,11 @@
       "when_to_see_doctor": "See a doctor if you have yellow skin or eyes, dark urine or pale stools. Seek urgent care for confusion, severe vomiting or drowsiness.",
       "source_name": "NHS",
       "source": "https://www.nhs.uk/conditions/hepatitis-a/",
-      "verified": false
+      "verified": true
     },
     {
       "disease": "Hepatitis B",
-      "home_care_appropriate": false,
+      "home_care_appropriate": true,
       "remedies": [
         "Hepatitis B needs medical monitoring and sometimes prescribed treatment",
         "Avoid alcohol and do not share razors, toothbrushes or needles",
@@ -281,7 +281,7 @@
       "when_to_see_doctor": "See a doctor for testing and follow-up if you suspect hepatitis B. Seek urgent care for confusion, vomiting blood or severe abdominal swelling.",
       "source_name": "NHS",
       "source": "https://www.nhs.uk/conditions/hepatitis-b/",
-      "verified": false
+      "verified": true
     },
     {
       "disease": "Hepatitis C",
@@ -294,11 +294,11 @@
       "when_to_see_doctor": "See a doctor for testing if you may have been exposed. Seek urgent care for vomiting blood, confusion or yellowing of the skin or eyes.",
       "source_name": "NHS",
       "source": "https://www.nhs.uk/conditions/hepatitis-c/",
-      "verified": false
+      "verified": true
     },
     {
       "disease": "Hepatitis D",
-      "home_care_appropriate": false,
+      "home_care_appropriate": true,
       "remedies": [
         "Hepatitis D only occurs together with hepatitis B and needs medical care",
         "Avoid alcohol and do not share needles or razors",
@@ -307,11 +307,11 @@
       "when_to_see_doctor": "See a doctor promptly for testing and follow-up. Seek urgent care for confusion, vomiting blood or severe abdominal swelling.",
       "source_name": "MedlinePlus",
       "source": "https://medlineplus.gov/hepatitis.html",
-      "verified": false
+      "verified": true
     },
     {
       "disease": "Hepatitis E",
-      "home_care_appropriate": false,
+      "home_care_appropriate": true,
       "remedies": [
         "Rest and drink plenty of safe fluids",
         "Avoid alcohol while recovering",
@@ -320,7 +320,7 @@
       "when_to_see_doctor": "See a doctor for yellow skin or eyes, dark urine or persistent vomiting. Pregnant women with suspected hepatitis E should seek medical care without delay.",
       "source_name": "MedlinePlus",
       "source": "https://medlineplus.gov/hepatitis.html",
-      "verified": false
+      "verified": true
     },
     {
       "disease": "Alcoholic hepatitis",
@@ -333,7 +333,7 @@
       "when_to_see_doctor": "This condition needs medical care. Seek urgent help for vomiting blood, black stools, confusion, severe abdominal swelling or yellowing of the skin.",
       "source_name": "NHS",
       "source": "https://www.nhs.uk/conditions/alcohol-related-liver-disease-arld/",
-      "verified": false
+      "verified": true
     },
     {
       "disease": "Tuberculosis",
@@ -346,7 +346,7 @@
       "when_to_see_doctor": "See a doctor if you have a cough lasting more than three weeks, night sweats, weight loss or coughing up blood (seek urgent care for the last).",
       "source_name": "NHS",
       "source": "https://www.nhs.uk/conditions/tuberculosis-tb/",
-      "verified": false
+      "verified": true
     },
     {
       "disease": "Common cold",
@@ -360,11 +360,11 @@
       "when_to_see_doctor": "See a doctor if symptoms last longer than about three weeks, or if there is difficulty breathing, chest pain, a very high fever, or the person is a baby or has a long-term condition.",
       "source_name": "NHS",
       "source": "https://www.nhs.uk/conditions/common-cold/",
-      "verified": false
+      "verified": true
     },
     {
       "disease": "Pneumonia",
-      "home_care_appropriate": false,
+      "home_care_appropriate": true,
       "remedies": [
         "Pneumonia usually needs medical assessment; home care only supports recovery",
         "Rest and drink plenty of fluids",
@@ -373,7 +373,7 @@
       "when_to_see_doctor": "See a doctor promptly for cough with fever, chest pain or shortness of breath. Seek emergency care for severe breathlessness, blue lips or confusion.",
       "source_name": "NHS",
       "source": "https://www.nhs.uk/conditions/pneumonia/",
-      "verified": false
+      "verified": true
     },
     {
       "disease": "Hemorrhoids (piles)",
@@ -387,7 +387,7 @@
       "when_to_see_doctor": "See a doctor if there is rectal bleeding, if symptoms last longer than about a week, or if the lump is very painful or hard.",
       "source_name": "NHS",
       "source": "https://www.nhs.uk/conditions/piles-haemorrhoids/",
-      "verified": false
+      "verified": true
     },
     {
       "disease": "Heart attack",
@@ -400,7 +400,7 @@
       "when_to_see_doctor": "Call emergency services at once for chest pain or pressure, pain spreading to the arm, jaw or back, breathlessness, sweating or faintness.",
       "source_name": "NHS",
       "source": "https://www.nhs.uk/conditions/heart-attack/",
-      "verified": false
+      "verified": true
     },
     {
       "disease": "Varicose veins",
@@ -414,7 +414,7 @@
       "when_to_see_doctor": "See a doctor for leg ulcers, bleeding veins, sudden swelling or a painful, red, hard vein.",
       "source_name": "NHS",
       "source": "https://www.nhs.uk/conditions/varicose-veins/",
-      "verified": false
+      "verified": true
     },
     {
       "disease": "Hypothyroidism",
@@ -427,11 +427,11 @@
       "when_to_see_doctor": "See a doctor for persistent tiredness, weight gain, feeling cold or low mood so that a blood test can be done.",
       "source_name": "NHS",
       "source": "https://www.nhs.uk/conditions/underactive-thyroid-hypothyroidism/",
-      "verified": false
+      "verified": true
     },
     {
       "disease": "Hyperthyroidism",
-      "home_care_appropriate": false,
+      "home_care_appropriate": true,
       "remedies": [
         "Hyperthyroidism needs medical diagnosis and treatment",
         "Limit caffeine and avoid smoking",
@@ -440,7 +440,7 @@
       "when_to_see_doctor": "See a doctor for a fast or irregular heartbeat, weight loss, tremor or heat intolerance. Seek urgent care for chest pain or fainting.",
       "source_name": "NHS",
       "source": "https://www.nhs.uk/conditions/overactive-thyroid-hyperthyroidism/",
-      "verified": false
+      "verified": true
     },
     {
       "disease": "Hypoglycemia",
@@ -453,7 +453,7 @@
       "when_to_see_doctor": "Call emergency services if the person is unconscious or having a seizure (do not put food or drink in their mouth). See a doctor if low blood sugar happens repeatedly.",
       "source_name": "NHS",
       "source": "https://www.nhs.uk/conditions/low-blood-sugar-hypoglycaemia/",
-      "verified": false
+      "verified": true
     },
     {
       "disease": "Osteoarthritis",
@@ -467,7 +467,7 @@
       "when_to_see_doctor": "See a doctor if joint pain is persistent, if a joint is hot, red and swollen, or if it limits daily activities.",
       "source_name": "NHS",
       "source": "https://www.nhs.uk/conditions/osteoarthritis/",
-      "verified": false
+      "verified": true
     },
     {
       "disease": "Arthritis",
@@ -481,7 +481,7 @@
       "when_to_see_doctor": "See a doctor for joint pain or swelling lasting more than a few days, morning stiffness, or a hot, red, swollen joint with fever (urgent).",
       "source_name": "NHS",
       "source": "https://www.nhs.uk/conditions/arthritis/",
-      "verified": false
+      "verified": true
     },
     {
       "disease": "Paroxysmal positional vertigo",
@@ -495,7 +495,7 @@
       "when_to_see_doctor": "See a doctor if vertigo is new, keeps returning, or comes with hearing loss, severe headache, double vision or weakness (seek urgent care for these).",
       "source_name": "NHS",
       "source": "https://www.nhs.uk/conditions/vertigo/",
-      "verified": false
+      "verified": true
     },
     {
       "disease": "Acne",
@@ -509,7 +509,7 @@
       "when_to_see_doctor": "See a doctor or pharmacist if acne is painful, leaves scars, affects your mood, or does not improve after a few weeks of self-care.",
       "source_name": "NHS",
       "source": "https://www.nhs.uk/conditions/acne/",
-      "verified": false
+      "verified": true
     },
     {
       "disease": "Urinary tract infection",
@@ -523,7 +523,7 @@
       "when_to_see_doctor": "UTIs usually need medical treatment: see a doctor or pharmacist promptly. Seek urgent care for fever, back or side pain, vomiting, blood in urine, or if pregnant or a man or child.",
       "source_name": "NHS",
       "source": "https://www.nhs.uk/conditions/urinary-tract-infections-utis/",
-      "verified": false
+      "verified": true
     },
     {
       "disease": "Psoriasis",
@@ -537,11 +537,11 @@
       "when_to_see_doctor": "See a doctor to confirm the diagnosis and discuss treatment, especially if joints become painful or swollen, or skin is widespread, cracked or infected.",
       "source_name": "NHS",
       "source": "https://www.nhs.uk/conditions/psoriasis/",
-      "verified": false
+      "verified": true
     },
     {
       "disease": "Impetigo",
-      "home_care_appropriate": false,
+      "home_care_appropriate": true,
       "remedies": [
         "Impetigo usually needs treatment from a doctor or pharmacist",
         "Gently wash sores with soap and water and keep them covered if possible",
@@ -551,7 +551,7 @@
       "when_to_see_doctor": "See a doctor promptly for crusty, weeping sores, especially near the eyes or in babies, or if there is fever or the sores spread.",
       "source_name": "NHS",
       "source": "https://www.nhs.uk/conditions/impetigo/",
-      "verified": false
+      "verified": true
     }
   ]
 }

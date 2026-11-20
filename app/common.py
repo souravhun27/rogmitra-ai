@@ -57,11 +57,10 @@ def _sidebar(active: str) -> None:
 
 
 def setup_page(title: str, active: str = "check") -> None:
-    """Must be the FIRST Streamlit call of every page: page config, theme, sidebar, permanent disclaimer."""
+    """Must be the FIRST Streamlit call of every page: page config, theme, sidebar (which carries the short disclaimer note)."""
     st.set_page_config(page_title=f"RogMitra.AI - {title}", page_icon="🩺", layout="wide")
     theme.inject_css(current_mode(), active)
     _sidebar(active)
-    theme.html_block(theme.disclaimer_strip())
 
 
 @st.cache_resource(show_spinner="Loading model...")
