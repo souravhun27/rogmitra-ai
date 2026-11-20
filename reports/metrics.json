@@ -1,0 +1,151 @@
+{
+  "test": {
+    "logreg": {
+      "accuracy": 1.0,
+      "macro_f1": 1.0,
+      "weighted_f1": 1.0,
+      "macro_precision": 1.0,
+      "macro_recall": 1.0,
+      "top3_accuracy": 1.0,
+      "roc_auc_ovr_macro": 1.0,
+      "ece": 0.051433459801244766,
+      "nll": 0.05656561606125743
+    },
+    "random_forest": {
+      "accuracy": 1.0,
+      "macro_f1": 1.0,
+      "weighted_f1": 1.0,
+      "macro_precision": 1.0,
+      "macro_recall": 1.0,
+      "top3_accuracy": 1.0,
+      "roc_auc_ovr_macro": 1.0,
+      "ece": 0.044008641975308606,
+      "nll": 0.04809997777278233
+    },
+    "xgboost": {
+      "accuracy": 1.0,
+      "macro_f1": 1.0,
+      "weighted_f1": 1.0,
+      "macro_precision": 1.0,
+      "macro_recall": 1.0,
+      "top3_accuracy": 1.0,
+      "roc_auc_ovr_macro": 1.0,
+      "ece": 0.026278417640262182,
+      "nll": 0.02782848219157302
+    },
+    "mlp": {
+      "accuracy": 1.0,
+      "macro_f1": 1.0,
+      "weighted_f1": 1.0,
+      "macro_precision": 1.0,
+      "macro_recall": 1.0,
+      "top3_accuracy": 1.0,
+      "roc_auc_ovr_macro": 1.0,
+      "ece": 1.341104507446289e-05,
+      "nll": 1.3411118743533734e-05
+    }
+  },
+  "cv": {
+    "logreg": {
+      "accuracy": [
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "macro_f1": [
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "top3_accuracy": [
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    "random_forest": {
+      "accuracy": [
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "macro_f1": [
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "top3_accuracy": [
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    "xgboost": {
+      "accuracy": [
+        0.9836065573770492,
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "macro_f1": [
+        0.9707317073170731,
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "top3_accuracy": [
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    "mlp": {
+      "accuracy": [
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "macro_f1": [
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "top3_accuracy": [
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ]
+    }
+  },
+  "calibration": {
+    "temperature": 0.2216247171163559,
+    "accuracy": 1.0,
+    "ece_before": 0.04094237089157105,
+    "ece_after": 1.341104507446289e-05,
+    "nll_before": 0.04321611300110817,
+    "nll_after": 1.3411118743533734e-05
+  },
+  "n_test": 45
+}

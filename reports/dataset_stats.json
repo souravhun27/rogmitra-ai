@@ -1,0 +1,318 @@
+{
+  "n_diseases": 41,
+  "n_symptoms": 131,
+  "dedup": {
+    "n_raw": 4920,
+    "n_exact_duplicates": 4616,
+    "n_unique": 304,
+    "n_conflicting_vectors": 0,
+    "n_conflict_rows_dropped": 0,
+    "n_final": 304
+  },
+  "duplicate_fraction": 0.9382,
+  "subset_rows_same_disease": 263,
+  "unique_rows_per_disease": {
+    "min": 5,
+    "median": 7.0,
+    "max": 10
+  },
+  "symptoms_per_unique_row": {
+    "min": 3,
+    "mean": 7.65,
+    "max": 17
+  },
+  "split_sizes": {
+    "train": 214,
+    "val": 45,
+    "test": 45
+  },
+  "per_disease": [
+    {
+      "disease": "AIDS",
+      "raw_rows": 120,
+      "unique_rows": 5,
+      "distinct_symptoms": 4,
+      "mean_symptoms_per_row": 3.2
+    },
+    {
+      "disease": "Acne",
+      "raw_rows": 120,
+      "unique_rows": 5,
+      "distinct_symptoms": 4,
+      "mean_symptoms_per_row": 3.2
+    },
+    {
+      "disease": "Alcoholic hepatitis",
+      "raw_rows": 120,
+      "unique_rows": 8,
+      "distinct_symptoms": 7,
+      "mean_symptoms_per_row": 6.12
+    },
+    {
+      "disease": "Allergy",
+      "raw_rows": 120,
+      "unique_rows": 5,
+      "distinct_symptoms": 4,
+      "mean_symptoms_per_row": 3.2
+    },
+    {
+      "disease": "Arthritis",
+      "raw_rows": 120,
+      "unique_rows": 6,
+      "distinct_symptoms": 5,
+      "mean_symptoms_per_row": 4.17
+    },
+    {
+      "disease": "Bronchial asthma",
+      "raw_rows": 120,
+      "unique_rows": 7,
+      "distinct_symptoms": 6,
+      "mean_symptoms_per_row": 5.14
+    },
+    {
+      "disease": "Cervical spondylosis",
+      "raw_rows": 120,
+      "unique_rows": 6,
+      "distinct_symptoms": 5,
+      "mean_symptoms_per_row": 4.17
+    },
+    {
+      "disease": "Chickenpox",
+      "raw_rows": 120,
+      "unique_rows": 10,
+      "distinct_symptoms": 11,
+      "mean_symptoms_per_row": 10.1
+    },
+    {
+      "disease": "Chronic cholestasis",
+      "raw_rows": 120,
+      "unique_rows": 8,
+      "distinct_symptoms": 7,
+      "mean_symptoms_per_row": 6.12
+    },
+    {
+      "disease": "Common cold",
+      "raw_rows": 120,
+      "unique_rows": 9,
+      "distinct_symptoms": 17,
+      "mean_symptoms_per_row": 16.11
+    },
+    {
+      "disease": "Dengue",
+      "raw_rows": 120,
+      "unique_rows": 10,
+      "distinct_symptoms": 14,
+      "mean_symptoms_per_row": 13.1
+    },
+    {
+      "disease": "Diabetes",
+      "raw_rows": 120,
+      "unique_rows": 9,
+      "distinct_symptoms": 10,
+      "mean_symptoms_per_row": 9.11
+    },
+    {
+      "disease": "Drug reaction",
+      "raw_rows": 120,
+      "unique_rows": 6,
+      "distinct_symptoms": 5,
+      "mean_symptoms_per_row": 4.17
+    },
+    {
+      "disease": "Fungal infection",
+      "raw_rows": 120,
+      "unique_rows": 5,
+      "distinct_symptoms": 4,
+      "mean_symptoms_per_row": 3.2
+    },
+    {
+      "disease": "GERD",
+      "raw_rows": 120,
+      "unique_rows": 7,
+      "distinct_symptoms": 6,
+      "mean_symptoms_per_row": 5.14
+    },
+    {
+      "disease": "Gastroenteritis",
+      "raw_rows": 120,
+      "unique_rows": 5,
+      "distinct_symptoms": 4,
+      "mean_symptoms_per_row": 3.2
+    },
+    {
+      "disease": "Heart attack",
+      "raw_rows": 120,
+      "unique_rows": 5,
+      "distinct_symptoms": 4,
+      "mean_symptoms_per_row": 3.2
+    },
+    {
+      "disease": "Hemorrhoids (piles)",
+      "raw_rows": 120,
+      "unique_rows": 6,
+      "distinct_symptoms": 5,
+      "mean_symptoms_per_row": 4.17
+    },
+    {
+      "disease": "Hepatitis A",
+      "raw_rows": 120,
+      "unique_rows": 9,
+      "distinct_symptoms": 11,
+      "mean_symptoms_per_row": 10.11
+    },
+    {
+      "disease": "Hepatitis B",
+      "raw_rows": 120,
+      "unique_rows": 9,
+      "distinct_symptoms": 12,
+      "mean_symptoms_per_row": 11.11
+    },
+    {
+      "disease": "Hepatitis C",
+      "raw_rows": 120,
+      "unique_rows": 7,
+      "distinct_symptoms": 6,
+      "mean_symptoms_per_row": 5.14
+    },
+    {
+      "disease": "Hepatitis D",
+      "raw_rows": 120,
+      "unique_rows": 10,
+      "distinct_symptoms": 9,
+      "mean_symptoms_per_row": 8.1
+    },
+    {
+      "disease": "Hepatitis E",
+      "raw_rows": 120,
+      "unique_rows": 9,
+      "distinct_symptoms": 13,
+      "mean_symptoms_per_row": 12.11
+    },
+    {
+      "disease": "Hypertension",
+      "raw_rows": 120,
+      "unique_rows": 6,
+      "distinct_symptoms": 5,
+      "mean_symptoms_per_row": 4.17
+    },
+    {
+      "disease": "Hyperthyroidism",
+      "raw_rows": 120,
+      "unique_rows": 9,
+      "distinct_symptoms": 11,
+      "mean_symptoms_per_row": 10.11
+    },
+    {
+      "disease": "Hypoglycemia",
+      "raw_rows": 120,
+      "unique_rows": 9,
+      "distinct_symptoms": 12,
+      "mean_symptoms_per_row": 11.11
+    },
+    {
+      "disease": "Hypothyroidism",
+      "raw_rows": 120,
+      "unique_rows": 8,
+      "distinct_symptoms": 13,
+      "mean_symptoms_per_row": 12.12
+    },
+    {
+      "disease": "Impetigo",
+      "raw_rows": 120,
+      "unique_rows": 6,
+      "distinct_symptoms": 5,
+      "mean_symptoms_per_row": 4.17
+    },
+    {
+      "disease": "Jaundice",
+      "raw_rows": 120,
+      "unique_rows": 9,
+      "distinct_symptoms": 8,
+      "mean_symptoms_per_row": 7.11
+    },
+    {
+      "disease": "Malaria",
+      "raw_rows": 120,
+      "unique_rows": 8,
+      "distinct_symptoms": 8,
+      "mean_symptoms_per_row": 7.12
+    },
+    {
+      "disease": "Migraine",
+      "raw_rows": 120,
+      "unique_rows": 10,
+      "distinct_symptoms": 9,
+      "mean_symptoms_per_row": 8.1
+    },
+    {
+      "disease": "Osteoarthritis",
+      "raw_rows": 120,
+      "unique_rows": 7,
+      "distinct_symptoms": 6,
+      "mean_symptoms_per_row": 5.14
+    },
+    {
+      "disease": "Paralysis (brain hemorrhage)",
+      "raw_rows": 120,
+      "unique_rows": 5,
+      "distinct_symptoms": 4,
+      "mean_symptoms_per_row": 3.2
+    },
+    {
+      "disease": "Paroxysmal positional vertigo",
+      "raw_rows": 120,
+      "unique_rows": 7,
+      "distinct_symptoms": 6,
+      "mean_symptoms_per_row": 5.14
+    },
+    {
+      "disease": "Peptic ulcer disease",
+      "raw_rows": 120,
+      "unique_rows": 7,
+      "distinct_symptoms": 6,
+      "mean_symptoms_per_row": 5.14
+    },
+    {
+      "disease": "Pneumonia",
+      "raw_rows": 120,
+      "unique_rows": 9,
+      "distinct_symptoms": 11,
+      "mean_symptoms_per_row": 10.11
+    },
+    {
+      "disease": "Psoriasis",
+      "raw_rows": 120,
+      "unique_rows": 7,
+      "distinct_symptoms": 6,
+      "mean_symptoms_per_row": 5.14
+    },
+    {
+      "disease": "Tuberculosis",
+      "raw_rows": 120,
+      "unique_rows": 9,
+      "distinct_symptoms": 16,
+      "mean_symptoms_per_row": 15.11
+    },
+    {
+      "disease": "Typhoid",
+      "raw_rows": 120,
+      "unique_rows": 9,
+      "distinct_symptoms": 11,
+      "mean_symptoms_per_row": 10.11
+    },
+    {
+      "disease": "Urinary tract infection",
+      "raw_rows": 120,
+      "unique_rows": 5,
+      "distinct_symptoms": 4,
+      "mean_symptoms_per_row": 3.2
+    },
+    {
+      "disease": "Varicose veins",
+      "raw_rows": 120,
+      "unique_rows": 8,
+      "distinct_symptoms": 7,
+      "mean_symptoms_per_row": 6.12
+    }
+  ]
+}

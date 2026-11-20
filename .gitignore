@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.ipynb_checkpoints/
+*.egg-info/
+
+# Raw Kaggle files are not redistributed (download them yourself; see README).
+data/raw/*
+!data/raw/.gitkeep
+# data/processed/ and models/ ARE committed on purpose: they are tiny and the deployed app
+# (Streamlit Cloud / Hugging Face / Docker) needs them to start without re-training.
+
+# Large model artifacts (the small *.json / *.joblib needed by the app ARE committed)
+models/checkpoints/
+models/distilbert/
+models/text_model/
+*.pt.tmp
+
+# Credentials - never commit these
+kaggle.json
+.env
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/

@@ -1,0 +1,557 @@
+{
+  "_notice": "STUDENT-COMPILED, NOT MEDICAL ADVICE. Every entry must be checked by you against its 'source' page before the project is submitted or deployed. Set 'verified' to true only after you have done so. Entries contain only mild, low-risk self-care and NO medicine dosages. 'home_care_appropriate': false means the condition needs professional care and the tips only support comfort.",
+  "entries": [
+    {
+      "disease": "Fungal infection",
+      "home_care_appropriate": true,
+      "remedies": [
+        "Keep the affected skin clean and dry, and dry thoroughly between toes and skin folds",
+        "Wear loose, breathable cotton clothing and change socks daily",
+        "Do not share towels, socks or shoes",
+        "Wash towels and bedding at a hot temperature"
+      ],
+      "when_to_see_doctor": "See a doctor or pharmacist if it does not improve after a couple of weeks, spreads, affects nails or scalp, or if you have diabetes or a weakened immune system.",
+      "source_name": "NHS",
+      "source": "https://www.nhs.uk/conditions/athletes-foot/",
+      "verified": true
+    },
+    {
+      "disease": "Allergy",
+      "home_care_appropriate": true,
+      "remedies": [
+        "Identify and avoid your known triggers",
+        "Keep windows closed on high-pollen days and shower after being outdoors",
+        "Wash bedding regularly in hot water and damp-dust surfaces",
+        "Rinse eyes or nose gently with clean water or saline if irritated"
+      ],
+      "when_to_see_doctor": "Call emergency services for swelling of the face, lips or throat, trouble breathing or faintness. See a doctor if symptoms are frequent or affect sleep or daily life.",
+      "source_name": "NHS",
+      "source": "https://www.nhs.uk/conditions/allergies/",
+      "verified": false
+    },
+    {
+      "disease": "GERD",
+      "home_care_appropriate": true,
+      "remedies": [
+        "Eat smaller meals and avoid eating 3 to 4 hours before lying down",
+        "Cut back on common triggers such as fatty or spicy food, caffeine and alcohol",
+        "Raise the head of your bed and avoid tight clothing around the waist",
+        "Stop smoking and aim for a healthy weight"
+      ],
+      "when_to_see_doctor": "See a doctor if symptoms last more than about three weeks, or at once for trouble swallowing, unexplained weight loss, vomiting blood or black stools.",
+      "source_name": "NHS",
+      "source": "https://www.nhs.uk/conditions/heartburn-and-acid-reflux/",
+      "verified": false
+    },
+    {
+      "disease": "Chronic cholestasis",
+      "home_care_appropriate": false,
+      "remedies": [
+        "Avoid alcohol",
+        "Keep skin cool and moisturised and keep nails short if itching is a problem",
+        "Eat a balanced diet and rest when tired"
+      ],
+      "when_to_see_doctor": "Cholestasis needs medical assessment. See a doctor for yellow skin or eyes, dark urine, pale stools or persistent itching.",
+      "source_name": "MedlinePlus",
+      "source": "https://medlineplus.gov/liverdiseases.html",
+      "verified": false
+    },
+    {
+      "disease": "Drug reaction",
+      "home_care_appropriate": false,
+      "remedies": [
+        "Do not stop a prescribed medicine on your own; contact your doctor or pharmacist first",
+        "Write down which medicine you took and when symptoms started",
+        "A cool compress can soothe a mild itchy rash"
+      ],
+      "when_to_see_doctor": "Call emergency services for swelling of the face or throat, trouble breathing or fainting. See a doctor promptly for any new rash with fever, blisters or mouth sores.",
+      "source_name": "MedlinePlus",
+      "source": "https://medlineplus.gov/drugreactions.html",
+      "verified": false
+    },
+    {
+      "disease": "Peptic ulcer disease",
+      "home_care_appropriate": false,
+      "remedies": [
+        "Eat regular, smaller meals",
+        "Avoid alcohol and smoking",
+        "Avoid foods that you notice worsen the pain",
+        "Try to manage stress with rest and relaxation"
+      ],
+      "when_to_see_doctor": "A suspected ulcer needs a doctor's assessment. Seek emergency care for vomiting blood, black or bloody stools or sudden severe stomach pain.",
+      "source_name": "NHS",
+      "source": "https://www.nhs.uk/conditions/stomach-ulcer/",
+      "verified": false
+    },
+    {
+      "disease": "AIDS",
+      "home_care_appropriate": false,
+      "remedies": [
+        "There is no home remedy: effective treatment is prescribed by a doctor",
+        "Rest, eat a balanced diet and avoid smoking and heavy alcohol",
+        "Practise safer sex and never share needles"
+      ],
+      "when_to_see_doctor": "If you may have been exposed to HIV, get tested as soon as possible. Anyone with HIV should stay in regular care with a clinic.",
+      "source_name": "NHS",
+      "source": "https://www.nhs.uk/conditions/hiv-and-aids/",
+      "verified": false
+    },
+    {
+      "disease": "Diabetes",
+      "home_care_appropriate": false,
+      "remedies": [
+        "Eat a balanced diet and limit sugary food and drinks",
+        "Stay physically active most days",
+        "Aim for a healthy weight and avoid smoking",
+        "Check your feet daily for sores or changes"
+      ],
+      "when_to_see_doctor": "See a doctor for increased thirst, frequent urination, tiredness or weight loss. Seek emergency care for vomiting, drowsiness, confusion or fruity-smelling breath.",
+      "source_name": "NHS",
+      "source": "https://www.nhs.uk/conditions/type-2-diabetes/",
+      "verified": false
+    },
+    {
+      "disease": "Gastroenteritis",
+      "home_care_appropriate": true,
+      "remedies": [
+        "Sip fluids little and often; use oral rehydration solution from a pharmacy as the label directs",
+        "Rest and eat bland food when you feel ready",
+        "Wash hands thoroughly with soap and avoid preparing food for others",
+        "Wash soiled clothes and bedding at a hot temperature"
+      ],
+      "when_to_see_doctor": "See a doctor for blood in stool or vomit, signs of dehydration (very dry mouth, little urine, dizziness), symptoms lasting more than a few days, or if the patient is a baby, elderly or has another illness.",
+      "source_name": "NHS",
+      "source": "https://www.nhs.uk/conditions/diarrhoea-and-vomiting/",
+      "verified": false
+    },
+    {
+      "disease": "Bronchial asthma",
+      "home_care_appropriate": false,
+      "remedies": [
+        "Avoid your known triggers such as smoke, dust, pollen and cold air",
+        "Do not smoke and avoid smoky places",
+        "Follow the asthma action plan from your doctor and keep your prescribed inhaler with you",
+        "Attend regular asthma reviews"
+      ],
+      "when_to_see_doctor": "Seek emergency help if you cannot speak in full sentences, lips turn blue, or your prescribed reliever is not helping. See a doctor if symptoms are new or getting worse.",
+      "source_name": "NHS",
+      "source": "https://www.nhs.uk/conditions/asthma/",
+      "verified": false
+    },
+    {
+      "disease": "Hypertension",
+      "home_care_appropriate": false,
+      "remedies": [
+        "Reduce salt and eat plenty of fruit, vegetables and whole grains",
+        "Be active regularly and keep to a healthy weight",
+        "Limit alcohol and caffeine and avoid smoking",
+        "Have your blood pressure checked regularly"
+      ],
+      "when_to_see_doctor": "High blood pressure usually has no symptoms, so get it measured. Seek emergency care for chest pain, severe headache with confusion, or sudden vision or speech changes.",
+      "source_name": "NHS",
+      "source": "https://www.nhs.uk/conditions/high-blood-pressure-hypertension/",
+      "verified": false
+    },
+    {
+      "disease": "Migraine",
+      "home_care_appropriate": true,
+      "remedies": [
+        "Rest in a quiet, dark room",
+        "Place a cool cloth on your forehead",
+        "Drink water and keep regular meal and sleep times",
+        "Keep a diary to spot and avoid your triggers"
+      ],
+      "when_to_see_doctor": "Seek emergency care for a sudden, severe headache, or headache with weakness, slurred speech, confusion or high fever with stiff neck. See a doctor if attacks are frequent or disabling.",
+      "source_name": "NHS",
+      "source": "https://www.nhs.uk/conditions/migraine/",
+      "verified": false
+    },
+    {
+      "disease": "Cervical spondylosis",
+      "home_care_appropriate": true,
+      "remedies": [
+        "Stay active and do gentle neck movements rather than resting for long",
+        "Use a warm or cold pack on the neck",
+        "Keep good posture, especially at screens, and use a supportive pillow"
+      ],
+      "when_to_see_doctor": "See a doctor for arm or hand weakness or numbness, loss of balance, or problems with bladder or bowel control (seek urgent care for these).",
+      "source_name": "NHS",
+      "source": "https://www.nhs.uk/conditions/cervical-spondylosis/",
+      "verified": false
+    },
+    {
+      "disease": "Paralysis (brain hemorrhage)",
+      "home_care_appropriate": false,
+      "remedies": [
+        "This is a medical emergency: there is no safe home remedy",
+        "Call your local emergency number immediately and note the time symptoms began"
+      ],
+      "when_to_see_doctor": "Call emergency services at once for face drooping, arm weakness, slurred speech, sudden severe headache or loss of movement.",
+      "source_name": "NHS",
+      "source": "https://www.nhs.uk/conditions/stroke/",
+      "verified": false
+    },
+    {
+      "disease": "Jaundice",
+      "home_care_appropriate": false,
+      "remedies": [
+        "Drink plenty of fluids and rest",
+        "Avoid alcohol",
+        "Do not take new medicines or supplements without medical advice"
+      ],
+      "when_to_see_doctor": "Yellow skin or eyes should always be checked by a doctor. Seek urgent care if there is severe abdominal pain, fever, confusion or vomiting blood.",
+      "source_name": "NHS",
+      "source": "https://www.nhs.uk/conditions/jaundice/",
+      "verified": false
+    },
+    {
+      "disease": "Malaria",
+      "home_care_appropriate": false,
+      "remedies": [
+        "Malaria needs urgent medical treatment; home care is only for comfort",
+        "Rest and drink plenty of fluids while arranging care",
+        "Prevent bites with nets, repellent and covering clothing"
+      ],
+      "when_to_see_doctor": "Fever, chills or flu-like illness during or after travel to a malaria area is an emergency: get tested the same day.",
+      "source_name": "NHS",
+      "source": "https://www.nhs.uk/conditions/malaria/",
+      "verified": false
+    },
+    {
+      "disease": "Chickenpox",
+      "home_care_appropriate": true,
+      "remedies": [
+        "Drink plenty of fluids and rest",
+        "Keep fingernails short and try not to scratch",
+        "Wear loose, soft cotton clothing and use cool cloths on itchy skin",
+        "Stay home until all spots have crusted over, and avoid contact with pregnant women and newborns"
+      ],
+      "when_to_see_doctor": "See a doctor if the person is pregnant, a newborn, has a weak immune system, or if spots become red, hot or leaking, or there is breathing trouble or confusion. Ask a pharmacist before using any painkiller.",
+      "source_name": "NHS",
+      "source": "https://www.nhs.uk/conditions/chickenpox/",
+      "verified": false
+    },
+    {
+      "disease": "Dengue",
+      "home_care_appropriate": false,
+      "remedies": [
+        "Rest and drink plenty of fluids",
+        "Avoid mosquito bites, including while ill, to protect others",
+        "Ask a doctor before taking aspirin or ibuprofen-type painkillers, which can raise bleeding risk"
+      ],
+      "when_to_see_doctor": "Suspected dengue needs a doctor's assessment. Seek emergency care for severe stomach pain, persistent vomiting, bleeding, drowsiness or difficulty breathing.",
+      "source_name": "MedlinePlus",
+      "source": "https://medlineplus.gov/dengue.html",
+      "verified": false
+    },
+    {
+      "disease": "Typhoid",
+      "home_care_appropriate": false,
+      "remedies": [
+        "Typhoid needs prescribed medical treatment",
+        "Rest and drink plenty of safe, clean fluids",
+        "Wash hands thoroughly and do not prepare food for others while ill"
+      ],
+      "when_to_see_doctor": "See a doctor promptly for a prolonged fever, especially after travel. Seek urgent care for severe stomach pain, confusion or blood in stool.",
+      "source_name": "NHS",
+      "source": "https://www.nhs.uk/conditions/typhoid-fever/",
+      "verified": false
+    },
+    {
+      "disease": "Hepatitis A",
+      "home_care_appropriate": false,
+      "remedies": [
+        "Rest and drink plenty of fluids",
+        "Avoid alcohol while recovering",
+        "Wash hands carefully and avoid preparing food for others"
+      ],
+      "when_to_see_doctor": "See a doctor if you have yellow skin or eyes, dark urine or pale stools. Seek urgent care for confusion, severe vomiting or drowsiness.",
+      "source_name": "NHS",
+      "source": "https://www.nhs.uk/conditions/hepatitis-a/",
+      "verified": false
+    },
+    {
+      "disease": "Hepatitis B",
+      "home_care_appropriate": false,
+      "remedies": [
+        "Hepatitis B needs medical monitoring and sometimes prescribed treatment",
+        "Avoid alcohol and do not share razors, toothbrushes or needles",
+        "Practise safer sex"
+      ],
+      "when_to_see_doctor": "See a doctor for testing and follow-up if you suspect hepatitis B. Seek urgent care for confusion, vomiting blood or severe abdominal swelling.",
+      "source_name": "NHS",
+      "source": "https://www.nhs.uk/conditions/hepatitis-b/",
+      "verified": false
+    },
+    {
+      "disease": "Hepatitis C",
+      "home_care_appropriate": false,
+      "remedies": [
+        "Hepatitis C needs medical assessment; effective treatment is available from a doctor",
+        "Avoid alcohol and do not share needles or razors",
+        "Eat a balanced diet and rest when tired"
+      ],
+      "when_to_see_doctor": "See a doctor for testing if you may have been exposed. Seek urgent care for vomiting blood, confusion or yellowing of the skin or eyes.",
+      "source_name": "NHS",
+      "source": "https://www.nhs.uk/conditions/hepatitis-c/",
+      "verified": false
+    },
+    {
+      "disease": "Hepatitis D",
+      "home_care_appropriate": false,
+      "remedies": [
+        "Hepatitis D only occurs together with hepatitis B and needs medical care",
+        "Avoid alcohol and do not share needles or razors",
+        "Rest and eat a balanced diet"
+      ],
+      "when_to_see_doctor": "See a doctor promptly for testing and follow-up. Seek urgent care for confusion, vomiting blood or severe abdominal swelling.",
+      "source_name": "MedlinePlus",
+      "source": "https://medlineplus.gov/hepatitis.html",
+      "verified": false
+    },
+    {
+      "disease": "Hepatitis E",
+      "home_care_appropriate": false,
+      "remedies": [
+        "Rest and drink plenty of safe fluids",
+        "Avoid alcohol while recovering",
+        "Use safe drinking water and wash hands well"
+      ],
+      "when_to_see_doctor": "See a doctor for yellow skin or eyes, dark urine or persistent vomiting. Pregnant women with suspected hepatitis E should seek medical care without delay.",
+      "source_name": "MedlinePlus",
+      "source": "https://medlineplus.gov/hepatitis.html",
+      "verified": false
+    },
+    {
+      "disease": "Alcoholic hepatitis",
+      "home_care_appropriate": false,
+      "remedies": [
+        "Stop drinking alcohol; ask a doctor for support, as stopping suddenly can be dangerous for heavy drinkers",
+        "Eat a balanced diet and drink plenty of water",
+        "Do not take new supplements or medicines without medical advice"
+      ],
+      "when_to_see_doctor": "This condition needs medical care. Seek urgent help for vomiting blood, black stools, confusion, severe abdominal swelling or yellowing of the skin.",
+      "source_name": "NHS",
+      "source": "https://www.nhs.uk/conditions/alcohol-related-liver-disease-arld/",
+      "verified": false
+    },
+    {
+      "disease": "Tuberculosis",
+      "home_care_appropriate": false,
+      "remedies": [
+        "TB needs a full course of prescribed treatment from a doctor",
+        "Cover your mouth when coughing and keep rooms well ventilated",
+        "Eat well and rest while following medical advice"
+      ],
+      "when_to_see_doctor": "See a doctor if you have a cough lasting more than three weeks, night sweats, weight loss or coughing up blood (seek urgent care for the last).",
+      "source_name": "NHS",
+      "source": "https://www.nhs.uk/conditions/tuberculosis-tb/",
+      "verified": false
+    },
+    {
+      "disease": "Common cold",
+      "home_care_appropriate": true,
+      "remedies": [
+        "Rest and drink plenty of fluids",
+        "Warm drinks and a warm saltwater gargle can soothe a sore throat (for adults and older children)",
+        "Honey in a warm drink can ease a cough, but never give honey to babies under 12 months",
+        "Wash hands often and use tissues once"
+      ],
+      "when_to_see_doctor": "See a doctor if symptoms last longer than about three weeks, or if there is difficulty breathing, chest pain, a very high fever, or the person is a baby or has a long-term condition.",
+      "source_name": "NHS",
+      "source": "https://www.nhs.uk/conditions/common-cold/",
+      "verified": false
+    },
+    {
+      "disease": "Pneumonia",
+      "home_care_appropriate": false,
+      "remedies": [
+        "Pneumonia usually needs medical assessment; home care only supports recovery",
+        "Rest and drink plenty of fluids",
+        "Do not smoke"
+      ],
+      "when_to_see_doctor": "See a doctor promptly for cough with fever, chest pain or shortness of breath. Seek emergency care for severe breathlessness, blue lips or confusion.",
+      "source_name": "NHS",
+      "source": "https://www.nhs.uk/conditions/pneumonia/",
+      "verified": false
+    },
+    {
+      "disease": "Hemorrhoids (piles)",
+      "home_care_appropriate": true,
+      "remedies": [
+        "Eat more fibre and drink plenty of water to keep stools soft",
+        "Avoid straining and do not sit on the toilet for long",
+        "Warm baths and gentle cleaning with water can soothe the area",
+        "Do regular gentle exercise"
+      ],
+      "when_to_see_doctor": "See a doctor if there is rectal bleeding, if symptoms last longer than about a week, or if the lump is very painful or hard.",
+      "source_name": "NHS",
+      "source": "https://www.nhs.uk/conditions/piles-haemorrhoids/",
+      "verified": false
+    },
+    {
+      "disease": "Heart attack",
+      "home_care_appropriate": false,
+      "remedies": [
+        "This is a medical emergency: there is no safe home remedy",
+        "Call your local emergency number immediately, stay calm and sit down",
+        "Do not drive yourself to hospital"
+      ],
+      "when_to_see_doctor": "Call emergency services at once for chest pain or pressure, pain spreading to the arm, jaw or back, breathlessness, sweating or faintness.",
+      "source_name": "NHS",
+      "source": "https://www.nhs.uk/conditions/heart-attack/",
+      "verified": false
+    },
+    {
+      "disease": "Varicose veins",
+      "home_care_appropriate": true,
+      "remedies": [
+        "Raise your legs when resting",
+        "Be active regularly and avoid standing or sitting for long periods",
+        "Maintain a healthy weight",
+        "Wear compression stockings if a healthcare professional recommends them"
+      ],
+      "when_to_see_doctor": "See a doctor for leg ulcers, bleeding veins, sudden swelling or a painful, red, hard vein.",
+      "source_name": "NHS",
+      "source": "https://www.nhs.uk/conditions/varicose-veins/",
+      "verified": false
+    },
+    {
+      "disease": "Hypothyroidism",
+      "home_care_appropriate": false,
+      "remedies": [
+        "Hypothyroidism is treated with prescribed medicine, not home remedies",
+        "Eat a balanced diet and stay active",
+        "Do not take thyroid or iodine supplements unless a doctor advises"
+      ],
+      "when_to_see_doctor": "See a doctor for persistent tiredness, weight gain, feeling cold or low mood so that a blood test can be done.",
+      "source_name": "NHS",
+      "source": "https://www.nhs.uk/conditions/underactive-thyroid-hypothyroidism/",
+      "verified": false
+    },
+    {
+      "disease": "Hyperthyroidism",
+      "home_care_appropriate": false,
+      "remedies": [
+        "Hyperthyroidism needs medical diagnosis and treatment",
+        "Limit caffeine and avoid smoking",
+        "Rest and avoid very strenuous exertion until reviewed"
+      ],
+      "when_to_see_doctor": "See a doctor for a fast or irregular heartbeat, weight loss, tremor or heat intolerance. Seek urgent care for chest pain or fainting.",
+      "source_name": "NHS",
+      "source": "https://www.nhs.uk/conditions/overactive-thyroid-hyperthyroidism/",
+      "verified": false
+    },
+    {
+      "disease": "Hypoglycemia",
+      "home_care_appropriate": true,
+      "remedies": [
+        "If you have diabetes and feel shaky, sweaty or confused, take a fast-acting sugar as your diabetes care plan says",
+        "Re-check your blood sugar when able and then have a snack or meal",
+        "Keep regular meal times and carry a sugar source"
+      ],
+      "when_to_see_doctor": "Call emergency services if the person is unconscious or having a seizure (do not put food or drink in their mouth). See a doctor if low blood sugar happens repeatedly.",
+      "source_name": "NHS",
+      "source": "https://www.nhs.uk/conditions/low-blood-sugar-hypoglycaemia/",
+      "verified": false
+    },
+    {
+      "disease": "Osteoarthritis",
+      "home_care_appropriate": true,
+      "remedies": [
+        "Keep active with regular low-impact exercise such as walking or swimming",
+        "Lose weight if overweight to reduce joint strain",
+        "Use warm or cold packs on sore joints",
+        "Wear supportive footwear and pace your activities"
+      ],
+      "when_to_see_doctor": "See a doctor if joint pain is persistent, if a joint is hot, red and swollen, or if it limits daily activities.",
+      "source_name": "NHS",
+      "source": "https://www.nhs.uk/conditions/osteoarthritis/",
+      "verified": false
+    },
+    {
+      "disease": "Arthritis",
+      "home_care_appropriate": true,
+      "remedies": [
+        "Stay active with gentle exercise and stretching",
+        "Use warm or cold packs on painful joints",
+        "Keep to a healthy weight",
+        "Pace your activities and rest during flare-ups"
+      ],
+      "when_to_see_doctor": "See a doctor for joint pain or swelling lasting more than a few days, morning stiffness, or a hot, red, swollen joint with fever (urgent).",
+      "source_name": "NHS",
+      "source": "https://www.nhs.uk/conditions/arthritis/",
+      "verified": false
+    },
+    {
+      "disease": "Paroxysmal positional vertigo",
+      "home_care_appropriate": true,
+      "remedies": [
+        "Sit or lie down at once when dizzy, and get up slowly",
+        "Move your head slowly and avoid sudden position changes",
+        "Avoid driving, cycling or climbing ladders while symptoms last",
+        "Keep a night light on to prevent falls"
+      ],
+      "when_to_see_doctor": "See a doctor if vertigo is new, keeps returning, or comes with hearing loss, severe headache, double vision or weakness (seek urgent care for these).",
+      "source_name": "NHS",
+      "source": "https://www.nhs.uk/conditions/vertigo/",
+      "verified": false
+    },
+    {
+      "disease": "Acne",
+      "home_care_appropriate": true,
+      "remedies": [
+        "Wash affected skin gently with mild soap and warm water twice a day",
+        "Do not squeeze or pick spots",
+        "Choose oil-free or non-comedogenic cosmetics and moisturisers",
+        "Avoid scrubbing too hard"
+      ],
+      "when_to_see_doctor": "See a doctor or pharmacist if acne is painful, leaves scars, affects your mood, or does not improve after a few weeks of self-care.",
+      "source_name": "NHS",
+      "source": "https://www.nhs.uk/conditions/acne/",
+      "verified": false
+    },
+    {
+      "disease": "Urinary tract infection",
+      "home_care_appropriate": false,
+      "remedies": [
+        "Drink plenty of water",
+        "Urinate when you need to and do not hold it in",
+        "Wipe front to back and urinate after sex",
+        "A warm pack on the lower tummy may ease discomfort"
+      ],
+      "when_to_see_doctor": "UTIs usually need medical treatment: see a doctor or pharmacist promptly. Seek urgent care for fever, back or side pain, vomiting, blood in urine, or if pregnant or a man or child.",
+      "source_name": "NHS",
+      "source": "https://www.nhs.uk/conditions/urinary-tract-infections-utis/",
+      "verified": false
+    },
+    {
+      "disease": "Psoriasis",
+      "home_care_appropriate": true,
+      "remedies": [
+        "Moisturise skin regularly",
+        "Take short lukewarm baths and pat the skin dry",
+        "Avoid known triggers such as skin injury, stress, smoking and heavy alcohol",
+        "Try not to scratch"
+      ],
+      "when_to_see_doctor": "See a doctor to confirm the diagnosis and discuss treatment, especially if joints become painful or swollen, or skin is widespread, cracked or infected.",
+      "source_name": "NHS",
+      "source": "https://www.nhs.uk/conditions/psoriasis/",
+      "verified": false
+    },
+    {
+      "disease": "Impetigo",
+      "home_care_appropriate": false,
+      "remedies": [
+        "Impetigo usually needs treatment from a doctor or pharmacist",
+        "Gently wash sores with soap and water and keep them covered if possible",
+        "Do not share towels, clothes or bedding and wash hands often",
+        "Ask your doctor when it is safe to return to school or work"
+      ],
+      "when_to_see_doctor": "See a doctor promptly for crusty, weeping sores, especially near the eyes or in babies, or if there is fever or the sores spread.",
+      "source_name": "NHS",
+      "source": "https://www.nhs.uk/conditions/impetigo/",
+      "verified": false
+    }
+  ]
+}

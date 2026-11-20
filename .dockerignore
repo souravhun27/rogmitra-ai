@@ -1,0 +1,17 @@
+.git
+.venv
+venv
+__pycache__
+*.pyc
+.pytest_cache
+.ipynb_checkpoints
+.vscode
+.idea
+.DS_Store
+data/raw
+notebooks
+tests
+models/text_model
+models/checkpoints
+kaggle.json
+.env

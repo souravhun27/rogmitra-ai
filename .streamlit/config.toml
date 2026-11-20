@@ -1,0 +1,14 @@
+# Base theme is dark; the in-app Light / Dark switch (sidebar) restyles everything through app/theme.py.
+[theme]
+base = "dark"
+primaryColor = "#ec7a3c"
+backgroundColor = "#100c0c"
+secondaryBackgroundColor = "#1a1413"
+textColor = "#f4ece6"
+font = "sans serif"
+
+[browser]
+gatherUsageStats = false
+
+[server]
+headless = true

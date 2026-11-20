@@ -1,0 +1,405 @@
+{
+  "AIDS": {
+    "extra-marital contacts": 0.8,
+    "high fever": 0.8,
+    "muscle wasting": 0.8,
+    "patches in throat": 0.8
+  },
+  "Acne": {
+    "blackheads": 0.8,
+    "pus filled pimples": 0.8,
+    "scurfing": 0.8,
+    "skin rash": 0.8
+  },
+  "Alcoholic hepatitis": {
+    "abdominal pain": 0.875,
+    "distention of abdomen": 0.875,
+    "fluid overload": 0.875,
+    "history of alcohol consumption": 0.875,
+    "swelling of stomach": 0.875,
+    "vomiting": 0.875,
+    "yellowish skin": 0.875
+  },
+  "Allergy": {
+    "chills": 0.8,
+    "continuous sneezing": 0.8,
+    "shivering": 0.8,
+    "watering from eyes": 0.8
+  },
+  "Arthritis": {
+    "movement stiffness": 0.8333,
+    "muscle weakness": 0.8333,
+    "painful walking": 0.8333,
+    "stiff neck": 0.8333,
+    "swelling joints": 0.8333
+  },
+  "Bronchial asthma": {
+    "breathlessness": 0.8571,
+    "cough": 0.8571,
+    "family history": 0.8571,
+    "fatigue": 0.8571,
+    "high fever": 0.8571,
+    "mucoid sputum": 0.8571
+  },
+  "Cervical spondylosis": {
+    "back pain": 0.8333,
+    "dizziness": 0.8333,
+    "loss of balance": 0.8333,
+    "neck pain": 0.8333,
+    "weakness in limbs": 0.8333
+  },
+  "Chickenpox": {
+    "fatigue": 0.9,
+    "headache": 0.9,
+    "high fever": 0.9,
+    "itching": 0.9,
+    "lethargy": 0.9,
+    "loss of appetite": 0.9,
+    "malaise": 1.0,
+    "mild fever": 0.9,
+    "red spots over body": 1.0,
+    "skin rash": 0.9,
+    "swelled lymph nodes": 0.9
+  },
+  "Chronic cholestasis": {
+    "abdominal pain": 0.875,
+    "itching": 0.875,
+    "loss of appetite": 0.875,
+    "nausea": 0.875,
+    "vomiting": 0.875,
+    "yellowing of eyes": 0.875,
+    "yellowish skin": 0.875
+  },
+  "Common cold": {
+    "chest pain": 1.0,
+    "chills": 0.8889,
+    "congestion": 1.0,
+    "continuous sneezing": 0.8889,
+    "cough": 0.8889,
+    "fatigue": 0.8889,
+    "headache": 0.8889,
+    "high fever": 0.8889,
+    "loss of smell": 1.0,
+    "malaise": 0.8889,
+    "muscle pain": 1.0,
+    "phlegm": 1.0,
+    "redness of eyes": 1.0,
+    "runny nose": 1.0,
+    "sinus pressure": 1.0,
+    "swelled lymph nodes": 0.8889,
+    "throat irritation": 1.0
+  },
+  "Dengue": {
+    "back pain": 1.0,
+    "chills": 0.9,
+    "fatigue": 0.9,
+    "headache": 1.0,
+    "high fever": 0.9,
+    "joint pain": 0.9,
+    "loss of appetite": 1.0,
+    "malaise": 0.9,
+    "muscle pain": 0.9,
+    "nausea": 1.0,
+    "pain behind the eyes": 1.0,
+    "red spots over body": 0.9,
+    "skin rash": 0.9,
+    "vomiting": 0.9
+  },
+  "Diabetes": {
+    "blurred and distorted vision": 0.8889,
+    "excessive hunger": 0.8889,
+    "fatigue": 0.8889,
+    "increased appetite": 1.0,
+    "irregular sugar level": 0.8889,
+    "lethargy": 0.8889,
+    "obesity": 0.8889,
+    "polyuria": 1.0,
+    "restlessness": 0.8889,
+    "weight loss": 0.8889
+  },
+  "Drug reaction": {
+    "burning micturition": 0.8333,
+    "itching": 0.8333,
+    "skin rash": 0.8333,
+    "spotting urination": 0.8333,
+    "stomach pain": 0.8333
+  },
+  "Fungal infection": {
+    "discolored patches": 0.8,
+    "itching": 0.8,
+    "nodal skin eruptions": 0.8,
+    "skin rash": 0.8
+  },
+  "GERD": {
+    "acidity": 0.8571,
+    "chest pain": 0.8571,
+    "cough": 0.8571,
+    "stomach pain": 0.8571,
+    "ulcers on tongue": 0.8571,
+    "vomiting": 0.8571
+  },
+  "Gastroenteritis": {
+    "dehydration": 0.8,
+    "diarrhoea": 0.8,
+    "sunken eyes": 0.8,
+    "vomiting": 0.8
+  },
+  "Heart attack": {
+    "breathlessness": 0.8,
+    "chest pain": 0.8,
+    "sweating": 0.8,
+    "vomiting": 0.8
+  },
+  "Hemorrhoids (piles)": {
+    "bloody stool": 0.8333,
+    "constipation": 0.8333,
+    "irritation in anus": 0.8333,
+    "pain during bowel movements": 0.8333,
+    "pain in anal region": 0.8333
+  },
+  "Hepatitis A": {
+    "abdominal pain": 0.8889,
+    "dark urine": 0.8889,
+    "diarrhoea": 0.8889,
+    "joint pain": 0.8889,
+    "loss of appetite": 0.8889,
+    "mild fever": 1.0,
+    "muscle pain": 1.0,
+    "nausea": 0.8889,
+    "vomiting": 0.8889,
+    "yellowing of eyes": 1.0,
+    "yellowish skin": 0.8889
+  },
+  "Hepatitis B": {
+    "abdominal pain": 0.8889,
+    "dark urine": 0.8889,
+    "fatigue": 0.8889,
+    "itching": 0.8889,
+    "lethargy": 0.8889,
+    "loss of appetite": 0.8889,
+    "malaise": 1.0,
+    "receiving blood transfusion": 1.0,
+    "receiving unsterile injections": 1.0,
+    "yellow urine": 0.8889,
+    "yellowing of eyes": 1.0,
+    "yellowish skin": 0.8889
+  },
+  "Hepatitis C": {
+    "family history": 0.8571,
+    "fatigue": 0.8571,
+    "loss of appetite": 0.8571,
+    "nausea": 0.8571,
+    "yellowing of eyes": 0.8571,
+    "yellowish skin": 0.8571
+  },
+  "Hepatitis D": {
+    "abdominal pain": 0.9,
+    "dark urine": 0.9,
+    "fatigue": 0.9,
+    "joint pain": 0.9,
+    "loss of appetite": 0.9,
+    "nausea": 0.9,
+    "vomiting": 0.9,
+    "yellowing of eyes": 0.9,
+    "yellowish skin": 0.9
+  },
+  "Hepatitis E": {
+    "abdominal pain": 1.0,
+    "acute liver failure": 0.8889,
+    "coma": 1.0,
+    "dark urine": 0.8889,
+    "fatigue": 0.8889,
+    "high fever": 0.8889,
+    "joint pain": 0.8889,
+    "loss of appetite": 1.0,
+    "nausea": 0.8889,
+    "stomach bleeding": 1.0,
+    "vomiting": 0.8889,
+    "yellowing of eyes": 1.0,
+    "yellowish skin": 0.8889
+  },
+  "Hypertension": {
+    "chest pain": 0.8333,
+    "dizziness": 0.8333,
+    "headache": 0.8333,
+    "lack of concentration": 0.8333,
+    "loss of balance": 0.8333
+  },
+  "Hyperthyroidism": {
+    "abnormal menstruation": 1.0,
+    "diarrhoea": 0.8889,
+    "excessive hunger": 0.8889,
+    "fast heart rate": 0.8889,
+    "fatigue": 0.8889,
+    "irritability": 1.0,
+    "mood swings": 0.8889,
+    "muscle weakness": 1.0,
+    "restlessness": 0.8889,
+    "sweating": 0.8889,
+    "weight loss": 0.8889
+  },
+  "Hypoglycemia": {
+    "anxiety": 0.8889,
+    "blurred and distorted vision": 0.8889,
+    "drying and tingling lips": 0.8889,
+    "excessive hunger": 1.0,
+    "fatigue": 0.8889,
+    "headache": 0.8889,
+    "irritability": 1.0,
+    "nausea": 0.8889,
+    "palpitations": 1.0,
+    "slurred speech": 1.0,
+    "sweating": 0.8889,
+    "vomiting": 0.8889
+  },
+  "Hypothyroidism": {
+    "abnormal menstruation": 1.0,
+    "brittle nails": 1.0,
+    "cold hands and feet": 0.875,
+    "depression": 1.0,
+    "dizziness": 0.875,
+    "enlarged thyroid": 1.0,
+    "fatigue": 0.875,
+    "irritability": 1.0,
+    "lethargy": 0.875,
+    "mood swings": 0.875,
+    "puffy face and eyes": 0.875,
+    "swollen extremities": 1.0,
+    "weight gain": 0.875
+  },
+  "Impetigo": {
+    "blister": 0.8333,
+    "high fever": 0.8333,
+    "red sore around nose": 0.8333,
+    "skin rash": 0.8333,
+    "yellow crust ooze": 0.8333
+  },
+  "Jaundice": {
+    "abdominal pain": 0.8889,
+    "dark urine": 0.8889,
+    "fatigue": 0.8889,
+    "high fever": 0.8889,
+    "itching": 0.8889,
+    "vomiting": 0.8889,
+    "weight loss": 0.8889,
+    "yellowish skin": 0.8889
+  },
+  "Malaria": {
+    "chills": 0.875,
+    "diarrhoea": 0.875,
+    "headache": 0.875,
+    "high fever": 0.875,
+    "muscle pain": 1.0,
+    "nausea": 0.875,
+    "sweating": 0.875,
+    "vomiting": 0.875
+  },
+  "Migraine": {
+    "acidity": 0.9,
+    "blurred and distorted vision": 0.9,
+    "depression": 0.9,
+    "excessive hunger": 0.9,
+    "headache": 0.9,
+    "indigestion": 0.9,
+    "irritability": 0.9,
+    "stiff neck": 0.9,
+    "visual disturbances": 0.9
+  },
+  "Osteoarthritis": {
+    "hip joint pain": 0.8571,
+    "joint pain": 0.8571,
+    "knee pain": 0.8571,
+    "neck pain": 0.8571,
+    "painful walking": 0.8571,
+    "swelling joints": 0.8571
+  },
+  "Paralysis (brain hemorrhage)": {
+    "altered sensorium": 0.8,
+    "headache": 0.8,
+    "vomiting": 0.8,
+    "weakness of one body side": 0.8
+  },
+  "Paroxysmal positional vertigo": {
+    "headache": 0.8571,
+    "loss of balance": 0.8571,
+    "nausea": 0.8571,
+    "spinning movements": 0.8571,
+    "unsteadiness": 0.8571,
+    "vomiting": 0.8571
+  },
+  "Peptic ulcer disease": {
+    "abdominal pain": 0.8571,
+    "indigestion": 0.8571,
+    "internal itching": 0.8571,
+    "loss of appetite": 0.8571,
+    "passage of gases": 0.8571,
+    "vomiting": 0.8571
+  },
+  "Pneumonia": {
+    "breathlessness": 0.8889,
+    "chest pain": 1.0,
+    "chills": 0.8889,
+    "cough": 0.8889,
+    "fast heart rate": 1.0,
+    "fatigue": 0.8889,
+    "high fever": 0.8889,
+    "malaise": 0.8889,
+    "phlegm": 0.8889,
+    "rusty sputum": 1.0,
+    "sweating": 0.8889
+  },
+  "Psoriasis": {
+    "inflammatory nails": 0.8571,
+    "joint pain": 0.8571,
+    "silver like dusting": 0.8571,
+    "skin peeling": 0.8571,
+    "skin rash": 0.8571,
+    "small dents in nails": 0.8571
+  },
+  "Tuberculosis": {
+    "blood in sputum": 1.0,
+    "breathlessness": 0.8889,
+    "chest pain": 1.0,
+    "chills": 0.8889,
+    "cough": 0.8889,
+    "fatigue": 0.8889,
+    "high fever": 0.8889,
+    "loss of appetite": 1.0,
+    "malaise": 1.0,
+    "mild fever": 1.0,
+    "phlegm": 1.0,
+    "sweating": 0.8889,
+    "swelled lymph nodes": 1.0,
+    "vomiting": 0.8889,
+    "weight loss": 0.8889,
+    "yellowing of eyes": 1.0
+  },
+  "Typhoid": {
+    "abdominal pain": 0.8889,
+    "belly pain": 0.8889,
+    "chills": 1.0,
+    "constipation": 0.8889,
+    "diarrhoea": 0.8889,
+    "fatigue": 1.0,
+    "headache": 0.8889,
+    "high fever": 1.0,
+    "nausea": 0.8889,
+    "toxic look (typhos)": 0.8889,
+    "vomiting": 0.8889
+  },
+  "Urinary tract infection": {
+    "bladder discomfort": 0.8,
+    "burning micturition": 0.8,
+    "continuous feel of urine": 0.8,
+    "foul smell of urine": 0.8
+  },
+  "Varicose veins": {
+    "bruising": 0.875,
+    "cramps": 0.875,
+    "fatigue": 0.875,
+    "obesity": 0.875,
+    "prominent veins on calf": 0.875,
+    "swollen blood vessels": 0.875,
+    "swollen legs": 0.875
+  }
+}

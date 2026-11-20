@@ -1,0 +1,19 @@
+# RogMitra.AI - runtime-only dependencies for DEPLOYMENT (Docker, Hugging Face Spaces, Streamlit Cloud).
+# The app only loads saved models, so training/evaluation tools (shap, xgboost, seaborn, transformers,
+# kaggle, jupyter, pytest) are left out. This keeps the image small and the memory use low.
+#
+# CPU-only PyTorch: the "+cpu" build comes from the PyTorch index below; the default PyPI build
+# pulls several GB of CUDA libraries that a free host cannot use.
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch==2.4.1+cpu
+
+numpy==1.26.4
+pandas==2.2.3
+scipy==1.13.1
+scikit-learn==1.5.2
+joblib==1.4.2
+captum==0.7.0
+matplotlib==3.9.2
+streamlit==1.40.2
+pyarrow==17.0.0
+reportlab==4.2.5
